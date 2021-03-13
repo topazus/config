@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Quiet Light",
+    "workbench.settings.editor": "json",
+    "editor.fontFamily": "'Monaco', 'Fira Code', 'Droid Sans Mono'",
+    "editor.fontSize": 17,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "400",
+    "window.zoomLevel": 0,
+    "rust-client.rustupPath": "$HOME/.cargo/bin/rustup",
+    "rust-client.channel": "stable",
+    "editor.formatOnSave": true,
+    "files.autoSave": "onWindowChange",
+    "editor.tokenColorCustomizations": {
+        "comments": "#3498DB"
+    },
+    "terminal.integrated.inheritEnv": false,
+    "python.terminal.activateEnvironment": false,
+    "markdown.preview.fontSize": 16,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.markdownlint": true
+    },
+    "markdownlint.config": {
+        "MD013": false,
+        "MD040": false,
+        "MD041": false,
+        "MD036": false,
+    },
+}
