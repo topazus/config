@@ -1,0 +1,13 @@
+# change directory easily
+alias ..='cd ..'
+
+# git aliases
+alias gs='git status'
+alias ga='git add'
+alias gb='git branch -v'
+alias gc='git commit -m "update"'
+alias gp='git push'
+
+alias du='du -sh'
+
+alias df='df -h'
