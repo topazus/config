@@ -1,7 +1,6 @@
 {
     "workbench.colorTheme": "Quiet Light",
     "workbench.settings.editor": "json",
-    "editor.fontFamily": "'Monaco'",
     "editor.fontSize": 19,
     "editor.fontLigatures": true,
     "editor.fontWeight": "400",
